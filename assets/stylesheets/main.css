@@ -1,0 +1,19 @@
+.holding_content {
+  background-image: url(../images/background.jpg);
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center center;
+  height: auto;
+}
+
+.content { margin-top: 4em; margin-bottom: 4em; }
+.content h3 { font-weight: 200; }
+.content .message { padding-top: 40px; }
+.content .message p .button { background-color: #619ed1; color: #fff; text-decoration: none; }
+.content .message h3 { color: #aad6fc; margin-left: 10%; font-family: 'Roboto', sans-serif; }
+.content .message p { color: #fff; margin-left: 10%; }
+.content .message p a { text-decoration: underline; color: #aad6fc }
+}
